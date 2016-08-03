@@ -13,4 +13,4 @@ Assign proper description to the activity using the activity lable
 Assign proper value to the column names using gsub function
 Group the merged dataset by activity and subject
 Summarize the dataset to get the mean for each column
-Write the dataset to a text file
+Write the dataset to a text file (means.txt)

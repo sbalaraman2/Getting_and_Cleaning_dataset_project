@@ -10,7 +10,7 @@ Merge the content of the test and train datasets.
 Assign the col names to the merged dataset and select only the required columns (means and std).
 Add the activity and subject columns to the merged dataset.
 Assign proper description to the activity using the activity lable.
-Assign proper value to the column names using gsub function.
+Assign proper value to the column names using gsub function. (This is the first tidy dataset)
 Group the merged dataset by activity and subject.
-Summarize the dataset to get the mean for each column.
+Summarize the dataset to get the mean for each column. (This is the 2nd independent tidy dataset)
 Write the dataset to a text file (means.txt).
